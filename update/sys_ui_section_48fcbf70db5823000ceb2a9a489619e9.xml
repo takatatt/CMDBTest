@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="48fcbf70db5823000ceb2a9a489619e9" sys_domain="global" table="x_135686_cmdbtest_tnc_computers" version="3" view="certification">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>takatatt</sys_created_by>
+            <sys_created_on>2018-08-31 07:12:23</sys_created_on>
+            <sys_id>04fcbf70db5823000ceb2a9a489619ea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_135686_cmdbtest_tnc_computers" sys_domain="global" view="d62ead22df100100cd7da5f59bf26356">48fcbf70db5823000ceb2a9a489619e9</sys_ui_section>
+            <sys_updated_by>takatatt</sys_updated_by>
+            <sys_updated_on>2018-08-31 07:12:23</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>1</position>
+            <sys_created_by>takatatt</sys_created_by>
+            <sys_created_on>2018-08-31 07:12:23</sys_created_on>
+            <sys_id>84fcbf70db5823000ceb2a9a489619ea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_135686_cmdbtest_tnc_computers" sys_domain="global" view="d62ead22df100100cd7da5f59bf26356">48fcbf70db5823000ceb2a9a489619e9</sys_ui_section>
+            <sys_updated_by>takatatt</sys_updated_by>
+            <sys_updated_on>2018-08-31 07:12:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>asset_tag</element>
+            <position>2</position>
+            <sys_created_by>takatatt</sys_created_by>
+            <sys_created_on>2018-08-31 07:12:23</sys_created_on>
+            <sys_id>08fcbf70db5823000ceb2a9a489619ea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_135686_cmdbtest_tnc_computers" sys_domain="global" view="d62ead22df100100cd7da5f59bf26356">48fcbf70db5823000ceb2a9a489619e9</sys_ui_section>
+            <sys_updated_by>takatatt</sys_updated_by>
+            <sys_updated_on>2018-08-31 07:12:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>manufacturer</element>
+            <position>3</position>
+            <sys_created_by>takatatt</sys_created_by>
+            <sys_created_on>2018-08-31 07:12:23</sys_created_on>
+            <sys_id>88fcbf70db5823000ceb2a9a489619ea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_135686_cmdbtest_tnc_computers" sys_domain="global" view="d62ead22df100100cd7da5f59bf26356">48fcbf70db5823000ceb2a9a489619e9</sys_ui_section>
+            <sys_updated_by>takatatt</sys_updated_by>
+            <sys_updated_on>2018-08-31 07:12:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>asset</element>
+            <position>4</position>
+            <sys_created_by>takatatt</sys_created_by>
+            <sys_created_on>2018-08-31 07:12:23</sys_created_on>
+            <sys_id>0cfcbf70db5823000ceb2a9a489619ea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_135686_cmdbtest_tnc_computers" sys_domain="global" view="d62ead22df100100cd7da5f59bf26356">48fcbf70db5823000ceb2a9a489619e9</sys_ui_section>
+            <sys_updated_by>takatatt</sys_updated_by>
+            <sys_updated_on>2018-08-31 07:12:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>takatatt</sys_created_by>
+            <sys_created_on>2018-08-31 07:12:23</sys_created_on>
+            <sys_id>8cfcbf70db5823000ceb2a9a489619ea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_135686_cmdbtest_tnc_computers" sys_domain="global" view="d62ead22df100100cd7da5f59bf26356">48fcbf70db5823000ceb2a9a489619e9</sys_ui_section>
+            <sys_updated_by>takatatt</sys_updated_by>
+            <sys_updated_on>2018-08-31 07:12:23</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>company</element>
+            <position>6</position>
+            <sys_created_by>takatatt</sys_created_by>
+            <sys_created_on>2018-08-31 07:12:23</sys_created_on>
+            <sys_id>00fcbf70db5823000ceb2a9a489619eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_135686_cmdbtest_tnc_computers" sys_domain="global" view="d62ead22df100100cd7da5f59bf26356">48fcbf70db5823000ceb2a9a489619e9</sys_ui_section>
+            <sys_updated_by>takatatt</sys_updated_by>
+            <sys_updated_on>2018-08-31 07:12:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>serial_number</element>
+            <position>7</position>
+            <sys_created_by>takatatt</sys_created_by>
+            <sys_created_on>2018-08-31 07:12:23</sys_created_on>
+            <sys_id>80fcbf70db5823000ceb2a9a489619eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_135686_cmdbtest_tnc_computers" sys_domain="global" view="d62ead22df100100cd7da5f59bf26356">48fcbf70db5823000ceb2a9a489619e9</sys_ui_section>
+            <sys_updated_by>takatatt</sys_updated_by>
+            <sys_updated_on>2018-08-31 07:12:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>model_id</element>
+            <position>8</position>
+            <sys_created_by>takatatt</sys_created_by>
+            <sys_created_on>2018-08-31 07:12:23</sys_created_on>
+            <sys_id>04fcbf70db5823000ceb2a9a489619eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_135686_cmdbtest_tnc_computers" sys_domain="global" view="d62ead22df100100cd7da5f59bf26356">48fcbf70db5823000ceb2a9a489619e9</sys_ui_section>
+            <sys_updated_by>takatatt</sys_updated_by>
+            <sys_updated_on>2018-08-31 07:12:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>9</position>
+            <sys_created_by>takatatt</sys_created_by>
+            <sys_created_on>2018-08-31 07:12:23</sys_created_on>
+            <sys_id>84fcbf70db5823000ceb2a9a489619eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_135686_cmdbtest_tnc_computers" sys_domain="global" view="d62ead22df100100cd7da5f59bf26356">48fcbf70db5823000ceb2a9a489619e9</sys_ui_section>
+            <sys_updated_by>takatatt</sys_updated_by>
+            <sys_updated_on>2018-08-31 07:12:23</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>10</position>
+            <sys_created_by>takatatt</sys_created_by>
+            <sys_created_on>2018-08-31 07:12:23</sys_created_on>
+            <sys_id>08fcbf70db5823000ceb2a9a489619eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_135686_cmdbtest_tnc_computers" sys_domain="global" view="d62ead22df100100cd7da5f59bf26356">48fcbf70db5823000ceb2a9a489619e9</sys_ui_section>
+            <sys_updated_by>takatatt</sys_updated_by>
+            <sys_updated_on>2018-08-31 07:12:23</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_135686_cmdbtest_tnc_computers</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>takatatt</sys_created_by>
+            <sys_created_on>2018-08-31 07:12:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>48fcbf70db5823000ceb2a9a489619e9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_135686_cmdbtest_tnc_computers</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="CMDBTest" source="x_135686_cmdbtest">ac53f6b8db1023000ceb2a9a4896190d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CMDBTest">ac53f6b8db1023000ceb2a9a4896190d</sys_scope>
+            <sys_update_name>sys_ui_section_48fcbf70db5823000ceb2a9a489619e9</sys_update_name>
+            <sys_updated_by>takatatt</sys_updated_by>
+            <sys_updated_on>2018-08-31 07:12:23</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Compliance" name="certification">d62ead22df100100cd7da5f59bf26356</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

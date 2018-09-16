@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="cmdb_ci_computer" label="tnc_computers" max_length="40" name="x_135686_cmdbtest_tnc_computers" sizeclass="5" type="collection">
+        <element label="System Name" max_length="40" name="u_system_name" type="string"/>
+    </element>
+</database>

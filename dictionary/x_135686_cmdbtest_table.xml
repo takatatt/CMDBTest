@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="service_task" label="Cmdbtest Tasks" max_length="40" name="x_135686_cmdbtest_table" type="collection">
+        <element label="field name" max_length="80" name="u_field_name" type="field_name"/>
+        <element label="table name" max_length="80" name="u_table_name" type="table_name"/>
+    </element>
+</database>

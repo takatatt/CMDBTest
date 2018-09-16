@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="System" max_length="40" name="x_135686_cmdbtest_system" type="collection">
+        <element label="Computer Counts" max_length="40" name="u_computer_counts" type="integer"/>
+        <element label="Description" max_length="40" name="u_description" type="string"/>
+        <element label="Name" max_length="40" name="u_name" type="string"/>
+        <element label="Service Manager" max_length="40" name="u_service_manager" type="string"/>
+    </element>
+</database>
