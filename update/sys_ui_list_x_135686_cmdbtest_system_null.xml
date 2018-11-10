@@ -4,47 +4,77 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_name</element>
-            <list_id display_value="x_135686_cmdbtest_system" element="NULL" name="x_135686_cmdbtest_system" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8b5fa998dbe023000ceb2a9a489619d4</list_id>
+            <list_id display_value="x_135686_cmdbtest_system" element="NULL" name="x_135686_cmdbtest_system" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">2091bc9adba023000ceb2a9a48961998</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-09-10 17:52:34</sys_created_on>
-            <sys_id>035fa998dbe023000ceb2a9a489619d5</sys_id>
+            <sys_created_on>2018-09-16 18:30:27</sys_created_on>
+            <sys_id>a891bc9adba023000ceb2a9a48961998</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-09-10 17:52:34</sys_updated_on>
+            <sys_updated_on>2018-09-16 18:30:27</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_computer_counts</element>
-            <list_id display_value="x_135686_cmdbtest_system" element="NULL" name="x_135686_cmdbtest_system" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8b5fa998dbe023000ceb2a9a489619d4</list_id>
+            <list_id display_value="x_135686_cmdbtest_system" element="NULL" name="x_135686_cmdbtest_system" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">2091bc9adba023000ceb2a9a48961998</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-09-10 17:52:34</sys_created_on>
-            <sys_id>835fa998dbe023000ceb2a9a489619d5</sys_id>
+            <sys_created_on>2018-09-16 18:30:27</sys_created_on>
+            <sys_id>2091bc9adba023000ceb2a9a48961999</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-09-10 17:52:34</sys_updated_on>
+            <sys_updated_on>2018-09-16 18:30:27</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>u_description</element>
-            <list_id display_value="x_135686_cmdbtest_system" element="NULL" name="x_135686_cmdbtest_system" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8b5fa998dbe023000ceb2a9a489619d4</list_id>
+            <element>u_subsystem_name</element>
+            <list_id display_value="x_135686_cmdbtest_system" element="NULL" name="x_135686_cmdbtest_system" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">2091bc9adba023000ceb2a9a48961998</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-09-10 17:52:34</sys_created_on>
-            <sys_id>075fa998dbe023000ceb2a9a489619d5</sys_id>
+            <sys_created_on>2018-09-16 18:30:27</sys_created_on>
+            <sys_id>a091bc9adba023000ceb2a9a48961999</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-09-10 17:52:34</sys_updated_on>
+            <sys_updated_on>2018-09-16 18:30:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_service_manager</element>
+            <list_id display_value="x_135686_cmdbtest_system" element="NULL" name="x_135686_cmdbtest_system" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">2091bc9adba023000ceb2a9a48961998</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-16 18:30:27</sys_created_on>
+            <sys_id>2491bc9adba023000ceb2a9a48961999</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-16 18:30:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_description</element>
+            <list_id display_value="x_135686_cmdbtest_system" element="NULL" name="x_135686_cmdbtest_system" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">2091bc9adba023000ceb2a9a48961998</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-09-16 18:30:27</sys_created_on>
+            <sys_id>a491bc9adba023000ceb2a9a48961999</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-09-16 18:30:27</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -58,10 +88,10 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-09-10 17:52:34</sys_created_on>
+            <sys_created_on>2018-09-16 18:30:27</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>8b5fa998dbe023000ceb2a9a489619d4</sys_id>
+            <sys_id>2091bc9adba023000ceb2a9a48961998</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_135686_cmdbtest_system</sys_name>
             <sys_package display_value="CMDBTest" source="x_135686_cmdbtest">ac53f6b8db1023000ceb2a9a4896190d</sys_package>
@@ -69,7 +99,7 @@
             <sys_scope display_value="CMDBTest">ac53f6b8db1023000ceb2a9a4896190d</sys_scope>
             <sys_update_name>sys_ui_list_x_135686_cmdbtest_system_null</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-09-10 17:52:34</sys_updated_on>
+            <sys_updated_on>2018-09-16 18:30:27</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>

@@ -2,7 +2,7 @@
 <record_update sys_domain="global" table="sys_ui_module">
     <sys_ui_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="CMDBTest">0153bab8db1023000ceb2a9a4896194e</application>
+        <application/>
         <filter/>
         <name>Test tables</name>
         <order/>

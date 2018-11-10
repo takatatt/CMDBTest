@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="x_135686_cmdbtest_tnc_task" label="TNC Survey Task" max_length="40" name="x_135686_cmdbtest_tnc_survey_task" type="collection">
+        <element label="Service Manager" max_length="255" name="u_service_manager" type="string"/>
+        <element label="Subsystem Name" max_length="255" name="u_subsystem_name" type="string"/>
+        <element label="System Name" max_length="255" name="u_system_name" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_action">
+    <sys_ui_action action="INSERT_OR_UPDATE">
+        <action_name>Information Update</action_name>
+        <active>true</active>
+        <client>false</client>
+        <comments/>
+        <condition/>
+        <form_action>false</form_action>
+        <form_button>false</form_button>
+        <form_context_menu>false</form_context_menu>
+        <form_link>false</form_link>
+        <form_style/>
+        <hint/>
+        <list_action>true</list_action>
+        <list_banner_button>false</list_banner_button>
+        <list_button>false</list_button>
+        <list_choice>true</list_choice>
+        <list_context_menu>false</list_context_menu>
+        <list_link>false</list_link>
+        <list_save_with_form_button>false</list_save_with_form_button>
+        <list_style/>
+        <name>Computer Information Update</name>
+        <onclick/>
+        <order>100</order>
+        <script><![CDATA[var sysname = current.u_mnp_system_name;
+var subsysname = current.u_mnp_subsystem_name;
+var systemtable = 'x_135686_cmdbtest_system';
+var system_fname = 'u_name';
+var subsystem_fname = 'u_subsystem_name';
+var tareget_field = 'u_service_manager';
+var ans = "";
+
+var req = new GlideRecord(systemtable);
+req.addQuery(system_fname, '=', sysname);
+req.query();
+
+if(req.hasNext()){
+	var ans_a = [];
+	while(req.next()){
+		ans_a.push(req.u_service_manager.concat());
+	}
+	var ans_filtered = ans_a.filter(function (value, index, self) {
+		return self.indexOf( value ) === index;
+	});
+		
+	if(ans_filtered.length > 1) {
+		ans += "--- subsystem matching ---\n";
+		var ans_a2 = [];
+		req.addQuery(system_fname, sysname);
+		req.addQuery(subsystem_fname, '=', subsysname);
+		req.query();
+		while(req.next()){
+			ans_a2.push(req.u_service_manager.concat());
+			var ans_filtered = ans_a2.filter(function (value, index, self) {
+				return self.indexOf( value ) === index;
+			});
+		}
+	}
+	
+	for(var i = 0, l = ans_filtered.length; i < l; i++){
+		ans += ans_filtered[i] + "\n";
+	}
+}else{
+	ans += "Not Found.\n";
+}
+
+current.setValue(target_filed, ans);
+current.update();]]></script>
+        <show_insert>true</show_insert>
+        <show_multiple_update>false</show_multiple_update>
+        <show_query>false</show_query>
+        <show_update>true</show_update>
+        <sys_class_name>sys_ui_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-09-16 17:22:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>beb1e852dba023000ceb2a9a4896194c</sys_id>
+        <sys_mod_count>62</sys_mod_count>
+        <sys_name>Computer Information Update</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CMDBTest" source="x_135686_cmdbtest">ac53f6b8db1023000ceb2a9a4896190d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CMDBTest">ac53f6b8db1023000ceb2a9a4896190d</sys_scope>
+        <sys_update_name>sys_ui_action_beb1e852dba023000ceb2a9a4896194c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-21 02:30:28</sys_updated_on>
+        <table>x_135686_cmdbtest_tnc_computers</table>
+        <ui11_compatible>true</ui11_compatible>
+        <ui16_compatible>false</ui16_compatible>
+    </sys_ui_action>
+</record_update>

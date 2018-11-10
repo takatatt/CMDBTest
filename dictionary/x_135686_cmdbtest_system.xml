@@ -4,6 +4,8 @@
         <element label="Computer Counts" max_length="40" name="u_computer_counts" type="integer"/>
         <element label="Description" max_length="40" name="u_description" type="string"/>
         <element label="Name" max_length="40" name="u_name" type="string"/>
+        <element label="Script Test" max_length="8000" name="u_script_test" type="script"/>
         <element label="Service Manager" max_length="40" name="u_service_manager" type="string"/>
+        <element label="Subsystem Name" max_length="40" name="u_subsystem_name" type="string"/>
     </element>
 </database>

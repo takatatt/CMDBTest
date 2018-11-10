@@ -2,5 +2,13 @@
 <database>
     <element label="Test Table" max_length="40" name="x_135686_cmdbtest_test_table" type="collection">
         <element label="Name" max_length="40" name="u_name" type="string"/>
+        <element choice="3" label="Task Type" max_length="40" name="u_task_type" type="choice">
+            <choice>
+                <element label="MNP" value="MNP"/>
+                <element label="TNC" value="TNC"/>
+            </choice>
+        </element>
+        <element label="Test End" max_length="40" name="u_test_end" type="glide_date_time"/>
+        <element label="Test Start" max_length="40" name="u_test_start" type="glide_date_time"/>
     </element>
 </database>
