@@ -2,8 +2,11 @@
 <database>
     <element extends="task" label="TNC Task" max_length="40" name="x_135686_cmdbtest_tnc_task" sizeclass="1" type="collection">
         <element attributes="edge_encryption_enabled=true" label="New Journal" max_length="4000" name="u_journal_1" type="journal"/>
-        <element label="Planed End" max_length="40" name="u_planed_end" type="glide_date_time"/>
-        <element label="Planed Start" max_length="40" name="u_planed_start" type="glide_date_time"/>
+        <element label="Planned End" max_length="40" name="u_planned_end" type="glide_date_time"/>
+        <element label="Planned Start" max_length="40" name="u_planned_start" type="glide_date_time"/>
+        <element label="Tentative End" max_length="40" name="u_tentative_end" type="glide_date"/>
+        <element label="Tentative Start" max_length="40" name="u_tentative_start" type="glide_date"/>
+        <element label="Test Duration" max_length="40" name="u_test_duration" type="glide_duration"/>
         <element attributes="preview_selector=true,preview_first=true,is_multi_text=true" label="New Wiki" max_length="65536" name="u_wiki_text_2" type="wiki_text"/>
     </element>
 </database>

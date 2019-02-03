@@ -4,70 +4,56 @@
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>short_description</element>
             <position>0</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-12 23:38:07</sys_created_on>
-            <sys_id>45513fa2db4523000ceb2a9a489619de</sys_id>
+            <sys_created_by>devadmin</sys_created_by>
+            <sys_created_on>2019-01-27 12:48:06</sys_created_on>
+            <sys_id>e6ae9441db1f23000ceb2a9a489619c8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Test Column" display_value="Test Column" name="x_135686_cmdbtest_tnc_task" sys_domain="global" view="Default view">f8513fa2db4523000ceb2a9a4896195f</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-12 23:38:07</sys_updated_on>
+            <sys_updated_by>devadmin</sys_updated_by>
+            <sys_updated_on>2019-01-27 12:48:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>description</element>
             <position>1</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-12 23:38:07</sys_created_on>
-            <sys_id>c5513fa2db4523000ceb2a9a489619de</sys_id>
+            <sys_created_by>devadmin</sys_created_by>
+            <sys_created_on>2019-01-27 12:48:06</sys_created_on>
+            <sys_id>6aae9441db1f23000ceb2a9a489619c8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Test Column" display_value="Test Column" name="x_135686_cmdbtest_tnc_task" sys_domain="global" view="Default view">f8513fa2db4523000ceb2a9a4896195f</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-12 23:38:07</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>work_notes</element>
-            <position>2</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-12 23:38:07</sys_created_on>
-            <sys_id>49513fa2db4523000ceb2a9a489619de</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Test Column" display_value="Test Column" name="x_135686_cmdbtest_tnc_task" sys_domain="global" view="Default view">f8513fa2db4523000ceb2a9a4896195f</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-12 23:38:07</sys_updated_on>
+            <sys_updated_by>devadmin</sys_updated_by>
+            <sys_updated_on>2019-01-27 12:48:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_journal_1</element>
-            <position>3</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-12 23:38:07</sys_created_on>
-            <sys_id>c9513fa2db4523000ceb2a9a489619de</sys_id>
+            <position>2</position>
+            <sys_created_by>devadmin</sys_created_by>
+            <sys_created_on>2019-01-27 12:48:06</sys_created_on>
+            <sys_id>eaae9441db1f23000ceb2a9a489619c8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Test Column" display_value="Test Column" name="x_135686_cmdbtest_tnc_task" sys_domain="global" view="Default view">f8513fa2db4523000ceb2a9a4896195f</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-12 23:38:07</sys_updated_on>
+            <sys_updated_by>devadmin</sys_updated_by>
+            <sys_updated_on>2019-01-27 12:48:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_wiki_text_2</element>
-            <position>4</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-10-12 23:38:07</sys_created_on>
-            <sys_id>4d513fa2db4523000ceb2a9a489619de</sys_id>
+            <position>3</position>
+            <sys_created_by>devadmin</sys_created_by>
+            <sys_created_on>2019-01-27 12:48:06</sys_created_on>
+            <sys_id>6eae9441db1f23000ceb2a9a489619c8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Test Column" display_value="Test Column" name="x_135686_cmdbtest_tnc_task" sys_domain="global" view="Default view">f8513fa2db4523000ceb2a9a4896195f</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-10-12 23:38:07</sys_updated_on>
+            <sys_updated_by>devadmin</sys_updated_by>
+            <sys_updated_on>2019-01-27 12:48:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

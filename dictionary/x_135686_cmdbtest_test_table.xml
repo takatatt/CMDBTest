@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element label="Test Table" max_length="40" name="x_135686_cmdbtest_test_table" type="collection">
+        <element label="List Test" max_length="4000" name="u_list_test" type="glide_list"/>
+        <element choice="3" label="List Test2" max_length="4000" name="u_list_test2" type="glide_list">
+            <choice>
+                <element label="A" value="A"/>
+                <element label="B" value="B"/>
+            </choice>
+        </element>
         <element label="Name" max_length="40" name="u_name" type="string"/>
         <element choice="3" label="Task Type" max_length="40" name="u_task_type" type="choice">
             <choice>

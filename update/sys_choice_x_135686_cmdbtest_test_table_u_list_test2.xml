@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_list_test2" table="x_135686_cmdbtest_test_table" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_list_test2</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>A</label>
+            <language>en</language>
+            <name>x_135686_cmdbtest_test_table</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-15 11:03:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b3a39249db0323000ceb2a9a489619d1</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-15 11:08:14</sys_updated_on>
+            <value>A</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_list_test2</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>B</label>
+            <language>en</language>
+            <name>x_135686_cmdbtest_test_table</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-15 11:04:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>54c3d249db0323000ceb2a9a48961913</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-15 11:08:16</sys_updated_on>
+            <value>B</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_list_test2</element>
+            <name>x_135686_cmdbtest_test_table</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-01-15 11:03:46</sys_created_on>
+            <sys_id>91b3d249db0323000ceb2a9a48961911</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_list_test2</sys_name>
+            <sys_package display_value="CMDBTest" source="x_135686_cmdbtest">ac53f6b8db1023000ceb2a9a4896190d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CMDBTest">ac53f6b8db1023000ceb2a9a4896190d</sys_scope>
+            <sys_update_name>sys_choice_x_135686_cmdbtest_test_table_u_list_test2</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-01-15 11:03:46</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

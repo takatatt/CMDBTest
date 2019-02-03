@@ -2,5 +2,9 @@
 <database>
     <element label="Test Table2" max_length="40" name="x_135686_cmdbtest_test_table2" type="collection">
         <element label="Name" max_length="40" name="u_name" type="string"/>
+        <element label="Reference Test" max_length="32" name="u_ref_test" reference="x_135686_cmdbtest_test_table" type="reference"/>
+        <index name="index">
+            <element name="u_ref_test"/>
+        </index>
     </element>
 </database>
